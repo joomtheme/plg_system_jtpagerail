@@ -1,1 +1,23 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>JoomTheme PageRail</name>
+		<description>Transforms Joomla Page Break Article Index into a modern floating page rail navigation.</description>
+		<element>jtpagerail</element>
+		<type>plugin</type>
+		<folder>system</folder>
+		<version>0.2.0</version>
+		<infourl title="JoomTheme PageRail">https://joomtheme.com</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/JoomTheme/plg_system_jtpagerail/releases/download/v0.2.0/plg_system_jtpagerail_v0.2.0.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>JoomTheme</maintainer>
+		<maintainerurl>https://joomtheme.com</maintainerurl>
+		<section>Updates</section>
+		<targetplatform name="joomla" version="6.*" />
+		<php_minimum>8.2.0</php_minimum>
+	</update>
+</updates>
