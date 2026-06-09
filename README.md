@@ -23,7 +23,7 @@ It keeps Joomla's native Page Break workflow intact while presenting the Article
 ## Installation
 
 1. Download the latest release package:
-   `plg_system_jtpagerail_v0.2.6.zip`
+   `plg_system_jtpagerail_v0.2.4.zip`
 2. In Joomla Administrator, go to:
    `System` → `Install` → `Extensions`
 3. Upload and install the ZIP package.
