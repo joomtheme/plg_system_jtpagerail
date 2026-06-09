@@ -2,7 +2,7 @@
 
 All notable changes to JT Page Rail will be documented in this file.
 
-## [0.2.6] - 2026-06-09
+## [0.2.4] - 2026-06-09
 
 ### Added
 - Added a right-side rail interface for the Joomla core Page Break Article Index.
