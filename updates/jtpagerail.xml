@@ -25,7 +25,7 @@
 		<section>Updates</section>
 		<targetplatform name="joomla" version="(5|6)\..*" />
 		<php_minimum>8.1</php_minimum>
-		<sha256>56e71ff6ea2a9c7e71ae2f139eeef19e6b96ba4453bb660153e828c3993a3b7b</sha256>
+		<sha256>eb55ee7e675240d3a64c2fbde39d68f655372650f64c1bd66e2d22d4c909291e</sha256>
 		<changelogurl>https://raw.githubusercontent.com/joomtheme/plg_system_jtpagerail/main/updates/jtpagerail_changelog.xml</changelogurl>
 	</update>
 </updates>
