@@ -66,13 +66,13 @@ Optional helper text shown inside the panel.
 
 ## Update Server
 
-The official update server is:
+Joomla update server XML:
 
-`https://joomtheme.com/updates/jtpagerail.xml`
+`https://raw.githubusercontent.com/joomtheme/plg_system_jtpagerail/main/updates/jtpagerail.xml`
 
-The Joomla changelog XML is:
+Joomla changelog XML:
 
-`https://joomtheme.com/updates/jtpagerail_changelog.xml`
+`https://raw.githubusercontent.com/joomtheme/plg_system_jtpagerail/main/updates/jtpagerail_changelog.xml`
 
 ## License
 
