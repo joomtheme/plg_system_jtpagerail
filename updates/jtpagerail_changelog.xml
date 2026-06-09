@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelogs>
+	<changelog>
+		<element>jtpagerail</element>
+		<type>plugin</type>
+		<version>0.2.4</version>
+
+		<addition>
+			<item>Added a right-side rail interface for the Joomla core Page Break Article Index.</item>
+			<item>Added support for hover or click opening behavior.</item>
+			<item>Added Joomla Web Asset Manager based frontend asset loading.</item>
+			<item>Added Joomla 5 and Joomla 6 update server compatibility metadata.</item>
+		</addition>
+
+		<change>
+			<item>Improved the plugin parameter UI for the hover label option.</item>
+			<item>The Show hover label option is now only shown when Open mode is set to Click.</item>
+			<item>Clarified English and Turkish language strings for the hover label behavior.</item>
+			<item>Updated frontend asset filenames to site-v024.css and site-v024.js to reduce browser and Joomla cache conflicts.</item>
+		</change>
+
+		<fix>
+			<item>Fixed cases where the original Joomla core Article Index box could remain visible instead of being moved into the right-side rail.</item>
+			<item>Fixed confusing behavior where the Show hover label option appeared inactive in hover-open mode.</item>
+			<item>Kept the install manifest JED-compatible by not using unsupported php_minimum in the extension manifest.</item>
+		</fix>
+
+		<note>
+			<item>Compatible with Joomla 5.x and Joomla 6.x.</item>
+			<item>Requires PHP 8.1 or newer.</item>
+			<item>The Joomla core Page Break plugin must be enabled for Article Index output.</item>
+		</note>
+	</changelog>
+</changelogs>
