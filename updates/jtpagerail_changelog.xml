@@ -3,7 +3,7 @@
 	<changelog>
 		<element>jtpagerail</element>
 		<type>plugin</type>
-		<version>0.2.4</version>
+		<version>0.2.6</version>
 
 		<addition>
 			<item>Added a right-side rail interface for the Joomla core Page Break Article Index.</item>
